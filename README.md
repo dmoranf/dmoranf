@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![My Skills](https://skillicons.dev/icons?i=js,vue,nuxtjs,react,nextjs,html,css,tailwind,bootstrap,php,py,perl)](https://skillicons.dev)
 <!--
 **dmoranf/dmoranf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
